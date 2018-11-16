@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="LoginServlet" method="post">
-<input type="text" value="uname">
+<form action="DemoMvn2" method="post">
+<input type="text" name="uname">
 <input type="submit" value="save"> 
 </form>
 
